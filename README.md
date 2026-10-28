@@ -20,7 +20,24 @@ Passionate about web development | HTML, CSS, JavaScript & Tailwind CSS | Learni
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sp-andrade" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@andresparamo7853" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/768634168488755201" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/sergio.andrade.848881" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+### 🌐 Socials
+
+<p align="left">
+<a href="https://github.com/sp-andrade" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+</a>
+<a href="https://www.youtube.com/@andresparamo7853" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"        height="40" alt="YouTube" title="YouTube"/>
+</a>
+<a href="https://discord.com/users/768634168488755201" target="_blank">
+<img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
+</a>
+<a href="https://www.facebook.com/sergio.andrade.848881" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" title="Facebook"/> 
+</a>
+<a href="https://www.instagram.com/sergio_andrade_07/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
+</a>
+</p>
+
 
 ### Badges
 
