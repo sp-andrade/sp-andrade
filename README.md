@@ -6,8 +6,8 @@ Currently a Software Development apprentice.
 
 Passionate about web development | HTML, CSS, JavaScript & Tailwind CSS | Learning SQL and MySQL | Building projects and improving my skills every day.
 
-* 🌍  I'm based in Garzón, Huila - Colombia
-* 🖥️  See my portfolio at [Portafolio](http://sp-andrade.github.io/Mi-Portafolio/)
+* 🌍 I currently live in Garzón, Huila - Colombia
+* 🖥️  [Portafolio](http://sp-andrade.github.io/Mi-Portafolio/)
 * ✉️  You can contact me at [sergio09andrade@gmail.com](mailto:sergio09andrade@gmail.com)
 * 🚀  I'm currently working on [Delieth](http://maykbto.github.io/prototipoTailwindcss/)
 * 🧠  I'm currently learning React.js, Node.js and Git advanced.
